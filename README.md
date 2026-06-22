@@ -111,6 +111,10 @@ All images undergo:
 
 This project is licensed under the MIT License.
 
+## AI Assistance Disclosure
+
+Portions of this code were developed with the assistance of AI-based tools (Claude, Anthropic) for code optimization and debugging. All outputs were reviewed, validated, and adapted by the authors.
+
 ## Citation
 
 If you use this code, please cite:
